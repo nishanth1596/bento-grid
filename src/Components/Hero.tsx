@@ -7,7 +7,7 @@ function Hero() {
         Social Media <span className="text-Yellow500">10X</span>{" "}
         <span className="italic">Faster</span> with AI
       </h1>
-      <h2 className="sr-only"></h2>
+      <h2 className="sr-only">Responsive Bento Grid</h2>
       <img
         className="mt-6 place-self-center px-[2.72rem] md:w-[53%]"
         src={starIcons}
